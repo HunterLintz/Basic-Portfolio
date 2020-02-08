@@ -205,3 +205,6 @@ input[type=Submit]{
     cursor: pointer;
     transform: scale(1.1);
 }
+.bold{
+    font-weight: bold;
+}
