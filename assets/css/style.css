@@ -78,6 +78,7 @@ span, .main{
     padding: 30px;
 }
 /* Sets white rectangle behind all elements in main */
+/* The Main is not exactly 960px because it didnt look right with my screen and the margin % were more responsive to the screen size changing */
 .main{
     background-color: #ffffff;
     min-height: 350px;
