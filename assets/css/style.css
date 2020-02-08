@@ -188,6 +188,3 @@ input[type=Submit]{
     cursor: pointer;
     transform: scale(1.1);
 }
-.portImg{
-    border: 1px solid #000;
-}
