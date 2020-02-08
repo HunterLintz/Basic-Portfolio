@@ -5,6 +5,7 @@ header{
     padding-bottom: 29px;
     padding-top: 29px;
     border-bottom: 2px solid #cccccc;
+    z-index: 1;
 
 }
 
@@ -164,6 +165,7 @@ input[type=Submit]{
     margin-left: 70px;
     margin-bottom: 35px;
     padding: 0;
+    z-index: 0;
 }
 .box-text p{
     background-color: #4aaaa5;
